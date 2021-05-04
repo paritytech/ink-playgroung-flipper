@@ -1,0 +1,8 @@
+{
+  "rust-analyzer.procMacro.enable": true,
+  "rust-analyzer.rustfmt.extraArgs": [
+    "+nightly"
+  ],
+  "workbench.colorTheme": "Default Dark+",
+  "editor.fontSize": 16,
+}
