@@ -1,8 +1,8 @@
 # Ink Playground
 
-This Gitpod playground will give you a zero-config Env. to test and develop ink! contracts. 
+This Gitpod playground will give you a zero-config Env. to test and develop ink! contracts.
 
-We are using the Flipper example in this repo. 
+We are using the Flipper example in this repo.
 
 For more information on ink!, please you visit the [official docs](https://paritytech.github.io/ink-docs/).
 
